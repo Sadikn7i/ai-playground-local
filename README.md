@@ -2,7 +2,7 @@
 ![AI Playground](jygjkjh.png)
 
 
-A sleek, fully local AI demo app running four NLP tasks in the browser — powered by a Python backend with HuggingFace models. No cloud. No API keys. Everything runs on your machine.
+A sleek, fully local AI demo app running four NLP tasks in the browser, powered by a Python backend with HuggingFace models. No cloud. No API keys. Everything runs on your machine.
 
 ![AI Playground](https://img.shields.io/badge/status-active-brightgreen) ![Python](https://img.shields.io/badge/python-3.10%2B-blue) ![License](https://img.shields.io/badge/license-MIT-purple)
 
@@ -79,7 +79,7 @@ INFO: Uvicorn running on http://0.0.0.0:8000
 
 Just open `index.html` in your browser. The status indicator in the top right will turn **green** when the server is connected.
 
-> ⏳ The first time you use each feature, the model will download automatically. This only happens once — models are cached locally after that.
+> The first time you use each feature, the model will download automatically. This only happens once — models are cached locally after that.
 
 ---
 
