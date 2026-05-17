@@ -1,5 +1,3 @@
-# AI Playground
-![AI Playground](jygjkjh.png)
 
 
 A sleek, fully local AI demo app running four NLP tasks in the browser, powered by a Python backend with HuggingFace models. No cloud. No API keys. Everything runs on your machine.
